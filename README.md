@@ -19,7 +19,7 @@ This repo is created for investigating self-dual bent sequences in Complex Hadam
 - Number of matrices: 1 [*link.*](./com_Hadamard_mats/xxx.txt)
 - Number of SD bent seqs: 140 [*link.*](./com_bent_seqs/xxx.log)
 - Refs: 
-  - The first Hadamard matrix of order 16 in [*Magma*](http://magma.maths.usyd.edu.au/magma/)
+  - citation
 
 
 ### Order 10
@@ -27,6 +27,6 @@ This repo is created for investigating self-dual bent sequences in Complex Hadam
 - Number of matrices: 1 [*link.*](./com_Hadamard_mats/xxx.txt)
 - Number of SD bent seqs: 140 [*link.*](./com_bent_seqs/xxx.log)
 - Refs: 
-  - The first Hadamard matrix of order 16 in [*Magma*](http://magma.maths.usyd.edu.au/magma/)
+  - citation
 
 To be continued...
