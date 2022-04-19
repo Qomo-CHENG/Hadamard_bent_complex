@@ -1,0 +1,48 @@
+/*
+* Complex Hadamard matrix with v = 8:
+* - number of matrices: N = 1
+*/
+
+========================= For  1 -th Matrix =========================
+All eigenvalues:  [
+    <-2*i - 2, 2>,
+    <-2*i + 2, 2>,
+    <2*i - 2, 2>,
+    <2*i + 2, 2>
+]
+
+**** For eigenvalue ev = -2*i - 2 ****
+Number of solutions: #S =  4
+Solutions: #S =  [
+    [-1  1  1  1 -1  1  1  1],
+    [-i  i  i  i -i  i  i  i],
+    [ 1 -1 -1 -1  1 -1 -1 -1],
+    [ i -i -i -i  i -i -i -i]
+]
+
+**** For eigenvalue ev = -2*i + 2 ****
+Number of solutions: #S =  4
+Solutions: #S =  [
+    [ 1  1  1 -1 -1 -1 -1  1],
+    [ i  i  i -i -i -i -i  i],
+    [-1 -1 -1  1  1  1  1 -1],
+    [-i -i -i  i  i  i  i -i]
+]
+
+**** For eigenvalue ev = 2*i - 2 ****
+Number of solutions: #S =  4
+Solutions: #S =  [
+    [-1  1  1  1  1 -1 -1 -1],
+    [-i  i  i  i  i -i -i -i],
+    [ 1 -1 -1 -1 -1  1  1  1],
+    [ i -i -i -i -i  i  i  i]
+]
+
+**** For eigenvalue ev = 2*i + 2 ****
+Number of solutions: #S =  4
+Solutions: #S =  [
+    [ 1  1  1 -1  1  1  1 -1],
+    [ i  i  i -i  i  i  i -i],
+    [-1 -1 -1  1 -1 -1 -1  1],
+    [-i -i -i  i -i -i -i  i]
+]
