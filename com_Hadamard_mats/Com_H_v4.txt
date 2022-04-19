@@ -1,0 +1,12 @@
+/*
+* Complex Hadamard matrix with v = 4:
+* - number of matrices: N = 1
+*/
+
+com_H_v4 := [
+[[1 , 1 , 1 , 1],
+ [1 , -1 ,1 ,-1],
+ [1 ,1 , -1 ,-1],
+ [1 ,-1 ,-1,  1]]
+]
+
