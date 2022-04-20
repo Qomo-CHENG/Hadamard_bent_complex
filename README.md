@@ -31,14 +31,25 @@ This repo is created for investigating self-dual bent sequences in Complex Hadam
 
 ### Order 10
 
-- Number of matrices: 2 [*link.*](./com_Hadamard_mats/Com_H_v10.txt)
+- Number of matrices: 1 [*link.*](./com_Hadamard_mats/Com_H_v10.txt)
 - All bent sequences [*link.*](./com_bent_seqs/log_sd_bent_complex_v10.log)
-
 
 ### Order 16
 
 - Number of matrices: 2 [*link.*](./com_Hadamard_mats/Com_H_v16.txt)
 - All bent sequences [*link.*](./com_bent_seqs/log_sd_bent_complex_v16.log)
+
+### Order 18
+
+- Number of matrices: 1 [*link.*](./com_Hadamard_mats/Com_H_v18.txt)
+- All bent sequences [*link.*](./com_bent_seqs/log_sd_bent_complex_v18.log)
+
+### Order 20
+
+- Number of matrices: 1 [*link.*](./com_Hadamard_mats/Com_H_v20.txt)
+- All bent sequences [*link.*](./com_bent_seqs/log_sd_bent_complex_v20.log)
+
+
 
 
 To be continued...
@@ -47,7 +58,7 @@ To be continued...
 <template>
 ### Order xx
 
-- Number of matrices: 2 [*link.*](./com_Hadamard_mats/Com_H_vxx.txt)
+- Number of matrices: 1 [*link.*](./com_Hadamard_mats/Com_H_vxx.txt)
 - All bent sequences [*link.*](./com_bent_seqs/log_sd_bent_complex_vxx.log)
 - Refs: 
   - citation
