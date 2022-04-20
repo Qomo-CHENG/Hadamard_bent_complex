@@ -21730,6 +21730,4 @@ Solutions: #S =  [
 ]
 Time elapsed for ev = 4*i : 0.0600 
 Time elapsed for i = 2 : 1.1500 
-Time elapsed in total:  380.770
-
-Total time: 381.149 seconds, Total memory usage: 32.09MB
+Time elapsed in total:  380.770 
