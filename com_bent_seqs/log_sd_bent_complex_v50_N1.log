@@ -1,0 +1,12 @@
+/*
+* Complex Hadamard matrix with v = 50:
+* - number of matrices: N = 1
+*/
+
+Number of matrices:  1
+
+========================= For  1 -th Matrix =========================
+All eigenvalues:  [
+    <i + 7, 25>,
+    <i - 7, 25>
+]
