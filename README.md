@@ -48,7 +48,7 @@ This repo is created for investigating self-dual bent sequences in Complex Hadam
 
 - 818 matrices with only one eigenvalue have no SD bent sequences [*link.*](./com_Hadamard_mats/Com_H_v18_N2782_1eigen.log)
 - 1890 matrices with two eigenvalues have no SD bent sequences [*link.*](./com_Hadamard_mats/Com_H_v18_N2782_2eigens.log)
-- 74 matrices with three eigenvalues have no SD bent sequences [*link.*](./com_Hadamard_mats/Com_H_v18_N2782_2eigens.log)
+- 74 matrices with three eigenvalues have no SD bent sequences [*link.*](./com_Hadamard_mats/Com_H_v18_N2782_3eigens.log)
 - 
 
 
